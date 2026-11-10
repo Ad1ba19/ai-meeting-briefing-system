@@ -126,3 +126,7 @@ flowchart TD
 - **Cheap sources first, LLM last.** Ordering the passes by cost and reliability made results more accurate and cut API spend.
 - **Make the model prove it.** Requiring a verbatim source quote for every value removed most hallucinated facts.
 - **Design for partial failure.** A briefing with some fields missing is far more useful than no briefing at all.
+
+## Author
+
+**Adiba Khan** · Software Engineer: Backend Engineering, Data Engineering & AI Systems · [LinkedIn](https://www.linkedin.com/in/adiba-khan-20ba57230/)
