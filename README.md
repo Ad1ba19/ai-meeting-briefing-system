@@ -1,5 +1,7 @@
 # AI Daily Briefing System
 
+**AI-powered enterprise briefing system · Generative AI · AI automation**
+
 An automated pipeline that reads the day's calendars, works out which outside companies are in each meeting, researches every company with an LLM enrichment engine, and delivers a one-page briefing for each meeting straight into the calendar invite.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
